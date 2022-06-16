@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulaziz
 - 👀 I’m interested in Web Development and data analyst 
-- 🌱 I’m currently learning Data Analyst 
+- 🌱 I’m currently a trying to develop my react skills.
 
 - 📫 How to reach me Aleissa220@gmail.com
 
