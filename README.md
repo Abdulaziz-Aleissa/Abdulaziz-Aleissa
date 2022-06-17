@@ -1,10 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AleissaDj.AleissaDj">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Abdulaziz+Aleissa....;Nice+to+meet+you+^^&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=A40000&center=true&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Abdulaziz+Aleissa....+%F0%9F%98%80;It's+a+pleasure+to+meet+you+%F0%9F%8E%88)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Web Development and data analyst 
 - 🌱 I’m currently a trying to develop my react skills.
